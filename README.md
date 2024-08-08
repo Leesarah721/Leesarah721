@@ -59,6 +59,8 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 
 ![메인](https://github.com/user-attachments/assets/f6d4f909-ff88-4d77-a9f7-50d2c462f5ee)
 
+<br/>
+<hr>
 
 ###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ](https://github.com/Leesarah721/SAVEMORE)
 > 
