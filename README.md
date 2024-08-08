@@ -1,12 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Sarah_Github)
 
-# Hi-there-
+# Hi-there🖐
 안녕하세요 예비 개발자 Sarah 입니다!
 
 <br/>
 
-# Education
+# Education📚
 #### 1. 출판편집&웹퍼블리셔 양성과정
 
 UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디자인 교육과정을 통해 사용자의 요구에 따라 빠르고 다양하게 변화하는 웹상에서 UI/ UX를 이해하고, 웹퍼블리싱 기본 언어(html5,css,java script 등) 및 현장에서 사용되는 다양한 마크업 중심의 수업을 진행 및 수료하셨습니다.
@@ -19,26 +19,27 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 <hr>
 
 ### 🛠Languages and Tools
-![image](https://github.com/user-attachments/assets/6ee0ee10-5fe4-4140-9c4d-4536d2cca245)
-![image](https://github.com/user-attachments/assets/3b8bd21c-495d-458a-9f3f-58d3d200ef8f)
+![image](https://github.com/user-attachments/assets/5accb517-be94-4a11-8079-5eff54a9b350)
+![image](https://github.com/user-attachments/assets/a4604413-e157-41bd-875a-0cf41874e298)
 
-![image](https://github.com/user-attachments/assets/94bcb9ee-d0c9-413e-86e8-13b17a78b6e6)
-![image](https://github.com/user-attachments/assets/a8006de9-a0d8-42eb-9789-28fe0b14c036)
-![image](https://github.com/user-attachments/assets/cd30a852-b4de-418b-84ab-55f7d232796e)
-![image](https://github.com/user-attachments/assets/a49d5d6d-cd4b-4515-9cae-e79b2f52339b)
+![image](https://github.com/user-attachments/assets/72b8ffcd-4f2b-413a-982f-b9948ef89cb6)
+![image](https://github.com/user-attachments/assets/1f5acc72-0308-4d84-8faa-6980706d907a)
+![image](https://github.com/user-attachments/assets/965837eb-1b40-4e54-81b1-f21b35aaa0d2)
+![image](https://github.com/user-attachments/assets/2a48aefc-868e-4995-9ef4-bbec05dac278)
 
-![image](https://github.com/user-attachments/assets/62e197aa-e9a4-400b-9c31-8fb59c566835)
-![image](https://github.com/user-attachments/assets/79b50f85-dbc3-48a7-a715-8afce8d95ec2)
-![image](https://github.com/user-attachments/assets/12dfb289-1795-4c7f-89f5-a6ce001b552d)
-![image](https://github.com/user-attachments/assets/cd134b8a-a620-43bd-86d4-96a345022d51)
-![image](https://github.com/user-attachments/assets/4e728f62-702f-4762-9924-5f57b3ae6997)
+![image](https://github.com/user-attachments/assets/832ab43f-e08d-46e6-992e-f562e31ab66e)
+![image](https://github.com/user-attachments/assets/f781f5dc-bdba-43b9-ba60-feb3529beec9)
+![image](https://github.com/user-attachments/assets/21c9d680-5c36-4bd6-85e1-b49ea9506baf)
+![image](https://github.com/user-attachments/assets/2d950c8b-48b7-4ab8-8579-4fb977f8fed2)
+![image](https://github.com/user-attachments/assets/8b28b69e-1cd0-4e73-b37d-64fe8de32404)
 
-![image](https://github.com/user-attachments/assets/2358ef2f-762e-41ef-aae5-eb7d655162ba)
-![image](https://github.com/user-attachments/assets/40021575-e74f-497c-a855-93d075bb7484)
-![image](https://github.com/user-attachments/assets/cf434336-2bd3-4d28-916e-ff152a2e5a8b)
-![image](https://github.com/user-attachments/assets/3635bdf4-be39-4aff-8f92-ddf77dfedc50)
-![image](https://github.com/user-attachments/assets/ba6ec3e8-f1a7-4fe6-94a8-2e18048a7f60)
-![image](https://github.com/user-attachments/assets/adaa9e73-8568-4fc9-b881-a3d78354ff74)
+![image](https://github.com/user-attachments/assets/8c8946e5-2602-45b8-9e3f-4698b71ffc75)
+![image](https://github.com/user-attachments/assets/20a9f424-b4e7-4511-9d69-254ae7fa4884)
+![image](https://github.com/user-attachments/assets/ba4ac854-93aa-44c2-b0ea-7bf4c2d717cc)
+![image](https://github.com/user-attachments/assets/1204c475-64dc-411e-be1e-df45d8410f28)
+![image](https://github.com/user-attachments/assets/2c492224-ea57-475e-bc78-f981e8d57b62)
+
+
 
 <hr>
 <br/>
