@@ -51,6 +51,8 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 
 ###  [ KDT 1차 프로젝트 | SAVEMORE | WEB Project ](https://github.com/Leesarah721/SAVEMORE)
 > 청년들을 위한 앱
+>
+> 
 
 ![메인](https://github.com/user-attachments/assets/d6e449a2-74f5-4c2a-81b1-80edd243bb01)
 
@@ -60,6 +62,8 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 
 ###  [ KDT 2차 프로젝트 | 캄캄(Calm Calm) | NLP, OCR Project ](https://github.com/Leesarah721/SAVEMORE)
 > 내 손안에 일기장
+>
+> 
 
 ![메인](https://github.com/user-attachments/assets/f6d4f909-ff88-4d77-a9f7-50d2c462f5ee)
 
@@ -67,8 +71,12 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 <hr>
 
 ###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ](https://github.com/Leesarah721/SAVEMORE)
+>
 > 
+![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
 
+<br/>
+<hr>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=footer&text=&fontSize=0" width="100%"/>
