@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=300&section=header&text=Sarah%20Github&fontSize=50&fontColor=FFFFFF" width="100%"/>
 <br><br>
@@ -71,5 +71,5 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=footer&text=&fontSize=0" width="100%"/>
 </div>
