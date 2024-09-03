@@ -73,7 +73,7 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 ###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ](https://github.com/Leesarah721/SAVEMORE)
 >
 > 
-![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
+![기획서_ing](https://github.com/user-attachments/assets/7ec632f7-00e9-4939-8027-0c69c620950a)
 
 <br/>
 <hr>
