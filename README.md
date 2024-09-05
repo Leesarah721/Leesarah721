@@ -60,7 +60,7 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 <hr>
 
 
-###  [ KDT 2차 프로젝트 | 캄캄(Calm Calm) | NLP, OCR Project ](https://github.com/Leesarah721/SAVEMORE)
+###  [ KDT 2차 프로젝트 | 캄캄(Calm Calm) | NLP, OCR Project ](https://github.com/Leesarah721/-Calm-Calm-)
 > 내 손안에 일기장
 >
 > 
@@ -70,7 +70,7 @@ UI·UX에 대한 이해를 바탕으로 한 실무 중심의 웹퍼블리싱디�
 <br/>
 <hr>
 
-###  [ KDT 3차 프로젝트 | PIP | ComputerVision Project ](https://github.com/Leesarah721/SAVEMORE)
+###  [ KDT 3차 프로젝트 | PIP | ComputerVision Project ](https://github.com/Leesarah721/PIP)
 >
 > 
 ![기획서_ing](https://github.com/user-attachments/assets/7ec632f7-00e9-4939-8027-0c69c620950a)
