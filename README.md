@@ -63,6 +63,7 @@
 ![기획서_ing](https://github.com/user-attachments/assets/7ec632f7-00e9-4939-8027-0c69c620950a)
 
 <br/>
+<hr>
 
 ###  [ KDT 2차 프로젝트 | 캄캄(Calm Calm) | NLP, OCR Project ](https://github.com/Leesarah721/-Calm-Calm-)
 > **내 손안에 일기장**
@@ -87,8 +88,6 @@
 <br/>
 <hr>
 
-
-<hr>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=200&section=footer&text=&fontSize=0" width="100%"/>
