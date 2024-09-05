@@ -72,6 +72,7 @@
 ![메인](https://github.com/user-attachments/assets/f6d4f909-ff88-4d77-a9f7-50d2c462f5ee)
 
 <br/>
+<br/>
 <hr>
 
 ###  [ KDT 1차 프로젝트 | SAVEMORE | WEB Project ](https://github.com/Leesarah721/SAVEMORE)
@@ -82,8 +83,7 @@
 ![메인](https://github.com/user-attachments/assets/d6e449a2-74f5-4c2a-81b1-80edd243bb01)
 
 
-
-<hr>
+<br/>
 <br/>
 <hr>
 
