@@ -12,8 +12,8 @@
 
 # Education📚
 #### 1. 출판편집&웹퍼블리셔 양성과정
-* HTML, CSS& JavaScript
-* UI/UX 기획 및 설계
+* **HTML, CSS& JavaScript**
+* **UI/UX 기획 및 설계**
 
 #### 2. AI기반 챗봇 및 OCR 개발 전문가 과정
 * **Python** : AI 개발의 기본 언어로, 데이터 처리, 분석, 모델 개발에 활용
