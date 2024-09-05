@@ -71,6 +71,9 @@
 > 
 ![메인](https://github.com/user-attachments/assets/f6d4f909-ff88-4d77-a9f7-50d2c462f5ee)
 
+<br/>
+<hr>
+
 ###  [ KDT 1차 프로젝트 | SAVEMORE | WEB Project ](https://github.com/Leesarah721/SAVEMORE)
 > **청년들을 위한 앱**
 >
