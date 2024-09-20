@@ -12,14 +12,8 @@
 <br/>
 
 # About me
-<div align="center">
-  <a href="https://sarrstudy.tistory.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1ed82aa0-45b4-4e08-9000-6cb2b2f9863d" alt="image1" />
-  </a>
-  <a href="https://exuberant-asp-900.notion.site/77a972b9e8204061b4dd9395af0f5fe4" target="_blank">
-    <img src="https://github.com/user-attachments/assets/246289a0-da31-4313-a53d-7fda3027f8e6" alt="image2" />
-  </a>
-</div>
+[![image](https://github.com/user-attachments/assets/1ed82aa0-45b4-4e08-9000-6cb2b2f9863d)](https://sarrstudy.tistory.com/)
+[![image](https://github.com/user-attachments/assets/246289a0-da31-4313-a53d-7fda3027f8e6)](https://exuberant-asp-900.notion.site/77a972b9e8204061b4dd9395af0f5fe4)
 
 
 
