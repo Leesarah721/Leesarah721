@@ -11,6 +11,12 @@
 <br/>
 <br/>
 
+# About me
+![image](https://github.com/user-attachments/assets/1ed82aa0-45b4-4e08-9000-6cb2b2f9863d)
+![image](https://github.com/user-attachments/assets/246289a0-da31-4313-a53d-7fda3027f8e6)
+
+
+
 # Education📚
 ### 1. 출판편집&웹퍼블리셔 양성과정
 * **HTML, CSS& JavaScript**
