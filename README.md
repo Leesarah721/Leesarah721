@@ -8,7 +8,7 @@
 # Hi-there🖐
 안녕하세요! **"항상 새로운 것을 배우고 도전하고 싶은"** 예비 개발자 이사라입니다! <br>
 1년동안 웹개발과 AI프로젝트를 진행하여 개발자 역량을 길렀고 <br>
-제가 공부한 내용은 이해한 내용을 다른 사람들에게 설명하며 함께 성장할 수 있도록 <a href="https://sarrstudy.tistory.com/" target="_blank">
+제가 공부한 내용은 다른 사람들에게 설명하며 함께 성장할 수 있도록 <a href="https://sarrstudy.tistory.com/" target="_blank">
     <img src="https://github.com/user-attachments/assets/1ed82aa0-45b4-4e08-9000-6cb2b2f9863d" alt="image1" />
   </a> 기록했습니다. <br>
 저에 대한 더 자세한 내용은 <a href="https://exuberant-asp-900.notion.site/77a972b9e8204061b4dd9395af0f5fe4" target="_blank">
