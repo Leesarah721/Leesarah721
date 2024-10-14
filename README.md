@@ -6,7 +6,15 @@
 
 
 # Hi-there🖐
-안녕하세요 예비 개발자 Sarah 입니다!
+안녕하세요! "항상 새로운 것을 배우고 도전하고 싶은" 예비 개발자 Sarah 입니다!
+1년동안 웹개발과 AI 팀 프로젝트를 진행하여 AI 개발자 역량을 길렀고
+제가 공부한 내용은 이해한 내용을 다른 사람들에게 설명하며 함께 성장할 수 있도록 <a href="https://sarrstudy.tistory.com/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/1ed82aa0-45b4-4e08-9000-6cb2b2f9863d" alt="image1" />
+  </a> 기록했습니다.
+저에 대한 더 자세한 내용은 <a href="https://exuberant-asp-900.notion.site/77a972b9e8204061b4dd9395af0f5fe4" target="_blank">
+    <img src="https://github.com/user-attachments/assets/246289a0-da31-4313-a53d-7fda3027f8e6" alt="image2" />
+  </a> 이곳을 통해 확인 하실 수 있습니다!
+
 
 <br/>
 <br/>
