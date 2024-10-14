@@ -19,28 +19,10 @@
 <br/>
 <br/>
 
-# About me
-<div align="center">
-  <a href="https://sarrstudy.tistory.com/" target="_blank">
-    <img src="https://github.com/user-attachments/assets/1ed82aa0-45b4-4e08-9000-6cb2b2f9863d" alt="image1" />
-  </a>
-  <a href="https://exuberant-asp-900.notion.site/77a972b9e8204061b4dd9395af0f5fe4" target="_blank">
-    <img src="https://github.com/user-attachments/assets/246289a0-da31-4313-a53d-7fda3027f8e6" alt="image2" />
-  </a>
-</div>
-
-
-<br/>
-<br/>
 
 
 # Education📚
-### 1. 출판편집&웹퍼블리셔 양성과정
-* **HTML, CSS& JavaScript**
-* **UI/UX 기획 및 설계**
-<br/>
-
-### 2. AI기반 챗봇 및 OCR 개발 전문가 과정
+###  1. AI기반 챗봇 및 OCR 개발 전문가 과정
 * **Python** : AI 개발의 기본 언어로, 데이터 처리, 분석, 모델 개발에 활용
 * **SQL** : 데이터를 수집하고 정제하는 데 중요한 역할, 분석 및 모델링에 필요한 데이터를 효과적으로 관리
 * **데이터분석** : numpy, pandas, matplotlib
@@ -48,6 +30,11 @@
 * **NLP** : 사용자 입력을 이해하고 적절히 응답하는 자연어처리 (Word2Vec, BERT 등의 NLP 모델)
 * **OCR** : 문서 자동화 처리, 스캔된 이미지에서 텍스트를 추출하는 작업 등에 활용
 * **Computer Vision** : 딥러닝 알고리즘을 사용하여 이미지 기반 데이터를 처리
+
+<br/>
+###  1. 출판편집&웹퍼블리셔 양성과정
+* **HTML, CSS& JavaScript**
+* **UI/UX 기획 및 설계**
 
 
 <br/>
