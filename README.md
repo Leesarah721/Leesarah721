@@ -34,10 +34,18 @@
 
 <br/>
 
-###  2. 프론트엔드 양성과정
-* **HTML, CSS& JavaScript**
-* **React**
-* **UI/UX 기획 및 설계**
+###  2. UX/UI를 활용한 웹디자인 및 웹퍼블리싱
+* **HTML, CSS& JavaScript** : 개발 환경 구축: VS Code 설치 및 인터넷 동작 원리 이해
+선택자와 상속, 색상, 웹 글꼴, 레이아웃(display, position, flex, grid
+CSS 애니메이션, 트랜지션, 유연한 레이아웃 구현
+변수, 타입 변환, 연산자, 제어문(조건문, 반복문), 배열 활용
+* **React** : DOM 및 이벤트 처리: 브라우저와 문서 객체 모델(DOM), 폼과 이벤트 처리,
+React 및 상태 관리: 컴포넌트, JSX, props, 주요 Hooks(useState, useEffect 등),
+상태 관리(useReducer, Context API)API 및 서버 연동: REST
+* **UI/UX 기획 및 설계** : 디자인툴 활용 대시보드 디자인 및사용자인터페이스 설계 학습 
+사용자경험(UX) 개선을 위한 리서치 및 분석수행
+다양한 디바이스에 최적화된 반응형 디자인 구현 
+Figma를 활용한 디자인 시안 및 프로토 타이핑 제작
 
 
 <br/>
